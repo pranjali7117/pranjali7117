@@ -51,12 +51,12 @@ favorite_quote: "First, solve the problem. Then, write the code."
 
 ---
 
-### 📊 GitHub Stats
+/*### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pranjali7117&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali7117&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</p>*/
 
 ---
 
