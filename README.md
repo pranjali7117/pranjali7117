@@ -1,9 +1,15 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=pranjali7117&label=Profile+Views&color=7B68EE&style=flat)
 
+<!-- Hello Stalker Line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=FF61D8&center=true&vCenter=true&width=500&lines=Hello+Stalker+%F0%9F%91%80;Thanks+for+visiting+my+profile+%F0%9F%92%95" alt="Hello Stalker 👀" />
+</p>
 
+<!-- Intro Line -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+I'm+Pranjali+Mishra;CS+Student+%7C+Builder+%7C+Dreamer+&font=Fira%20Code&center=true&width=500&height=50&color=00C5CD&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+%F0%9F%91%8B+I'm+Pranjali+Mishra;CS+Student+%7C+Builder+%7C+Dreamer&font=Fira%20Code&center=true&width=500&height=50&color=00C5CD&vCenter=true&pause=1500&size=25" />
 </h1>
+
 
 ---
 
