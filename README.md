@@ -17,9 +17,7 @@
 > Initializing GitHub profile...
 > Loading username: pranjali7117
 > Booting up curiosity_engine...
-> Starting with love for code & chai ✨
-> Passion modules active: frontend_webdev, ai_basics, opensource, machine learning
-> Terminal active: Hello World 👩‍💻
+> Starting with love for code & chai.
 ```
 
 ---
@@ -27,8 +25,8 @@
 ### 🌸 About Me
 ```yaml
 name: Pranjali Mishra
-status: Constantly Learning 🚀
-role: Computer Science Student 💻
+status: Constantly Learning 
+role: Computer Science Student 
 goals: 
   - Build real-world projects
   - Collaborate on open-source
@@ -39,21 +37,16 @@ favorite_quote: "First, solve the problem. Then, write the code."
 ---
 
 ### 🎯 Currently Focused On
-- 🌐 Web Dev — React, JS, HTML/CSS
 - 🧠 Exploring AI & Machine Learning
-- 🎨 Designing clean, minimal UI
 - 🧩 Building cool side projects
 - 🤝 Open source & collaborative learning
 
 ---
 
-### 🔧 Tech Stack Toolbox
-| Area           | Tools                                                                 |
-|----------------|-----------------------------------------------------------------------|
-| Languages      | `Python` `JavaScript` `C++`                                           |
-| Web Dev        | `HTML` `CSS` `React.js`                                               |
-| ML Basics      | `scikit-learn` `TensorFlow` (learning)                                |
-| Tools & Design | `Git` `Figma` `Postman` `VS Code`                                     |
+### 🛠️ My Dev Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,python,cpp,git,figma,vscode,postman,tailwind,sklearn,express,firebase,nodejs" />
+</p>
 
 ---
 
