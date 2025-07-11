@@ -63,5 +63,6 @@ favorite_quote: "First, solve the problem. Then, write the code."
 > Design-Driven. Detail-Obsessed. Debugger of Dreams.  
 > Bugs: Mostly Tamed 🐛 | Coffee: ☕ Always.  
 > Curiosity: ∞
+> hopes high
 
 ---
