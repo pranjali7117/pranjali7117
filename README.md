@@ -1,3 +1,4 @@
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=pranjali7117&label=Profile+Views&color=7B68EE&style=flat)
 
 <!-- Hello Stalker Line -->
@@ -46,6 +47,16 @@ favorite_quote: "First, solve the problem. Then, write the code."
 ### 🛠️ My Dev Toolbox
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,python,cpp,git,figma,vscode,postman,tailwind,sklearn,express,firebase,nodejs" />
+</p>
+
+---
+
+<br></br>
+### My GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=priyanshu0511&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&line_height=33" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjali7117&layout=compact&bg_color=1c1917&text_color=ffffff" height="175"/>
 </p>
 
 ---
