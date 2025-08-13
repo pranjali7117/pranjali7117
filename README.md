@@ -74,3 +74,5 @@ favorite_quote: "First, solve the problem. Then, write the code."
 > hopes high in chaos
 
 ---
+
+-"Wounded is the lion, yet ‘tis not the prey he feareth, but the hunter; and in such wrath is his most perilous might."
